@@ -50,7 +50,7 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 👉 **Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
 
 and many more, including code architecture and reusability. 
-</div>
+
 ## Installation
 
 To install the project, you can either download the zip file and open that folder in VS code or you can clone the project by running the following command in terminal.
@@ -60,6 +60,8 @@ To install the project, you can either download the zip file and open that folde
 ```
 Once you have cloned the repository/ opened that folder in VS code, run the following commands
 ```bash
+</div>
+
 npm install
 ```
 And finally to start the development server, run
