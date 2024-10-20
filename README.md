@@ -51,3 +51,18 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 
 and many more, including code architecture and reusability. 
 </div>
+## Installation
+
+To install the project, you can either download the zip file and open that folder in VS code or you can clone the project by running the following command in terminal.
+
+```bash
+  git clone https://github.com/Vikasbhagat84527/Horizon_banking_app.git 
+```
+Once you have cloned the repository/ opened that folder in VS code, run the following commands
+```bash
+npm install
+```
+And finally to start the development server, run
+```bash
+npm run dev
+```
