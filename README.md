@@ -60,8 +60,6 @@ To install the project, you can either download the zip file and open that folde
 ```
 Once you have cloned the repository/ opened that folder in VS code, run the following commands
 ```bash
-</div>
-
 npm install
 ```
 And finally to start the development server, run
